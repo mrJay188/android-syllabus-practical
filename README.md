@@ -1,5 +1,5 @@
 # 📱 Android Master Practical Hub
-### MCA Semester 3 | [cite_start]Mobile Programming (05MC0203) [cite: 4, 5, 6]
+### MCA Semester 2 | [cite_start]Mobile Programming (05MC0203) [cite: 4, 5, 6]
 [cite_start]**Marwadi University - Faculty of Computer Applications** [cite: 2, 3]
 
 [cite_start]This repository contains a comprehensive "Super App" that consolidates all **54 practical assignments** from the Mobile Programming curriculum into a single, navigable project[cite: 55, 57, 60, 61, 62, 67, 71].
