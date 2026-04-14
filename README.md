@@ -35,22 +35,21 @@ This project demonstrates the fulfillment of the course objectives, including ac
 * **Hardware Integration:** Using the Device Camera and working with the Alarm manager.
 
 ### **Unit 4: Data Persistence & Storage**
-* **Storage Mechanisms:** Internal Storage, External Storage, and Shared Preferences[cite: 24].
-* **Database Management:** Managing data using SQLite and building a Doctor Detail database (doc_id, name, city, etc.)[cite: 24, 77].
-* **Data Sharing:** Sharing data between applications using Content Providers and ContentResolvers[cite: 24].
+* **Storage Mechanisms:** Internal Storage, External Storage, and Shared Preferences.
+* **Database Management:** Managing data using SQLite and building a Doctor Detail database (doc_id, name, city, etc.).
+* **Data Sharing:** Sharing data between applications using Content Providers and ContentResolvers.
 
 ### **Unit 5: Location & Web Services**
-* **Geo-Services:** Using Location Based Services and working with Google Maps[cite: 24].
-* **Sensor API:** Implementation of SensorManager, SensorEvent, and SensorEventListener[cite: 27].
-* **Networking:** Introduction to JSON Parsing and App Monetization[cite: 27].
+* **Geo-Services:** Using Location Based Services and working with Google Maps.
+* **Sensor API:** Implementation of SensorManager, SensorEvent, and SensorEventListener.
+* **Networking:** Introduction to JSON Parsing and App Monetization.
 
 ---
 
 ## 📖 Learning Resources
-* **Textbook:** Professional Android 4 Application Development by Reto Meier[cite: 41].
-* **Reference:** Beginning Android Application Development by Wei-Meng Lee[cite: 45].
-* **Web:** developer.android.com and tutorialspoint.com[cite: 47, 48].
+* **Textbook:** Professional Android 4 Application Development by Reto Meier.
+* **Reference:** Beginning Android Application Development by Wei-Meng Lee.
+* **Web:** developer.android.com and tutorialspoint.com.
 
 ---
 
-> **Note:** This project demonstrates the ability to develop an application by applying persistence data storage mechanisms and preparing it for the Android Market[cite: 32, 33].
